@@ -71,31 +71,30 @@ curse-of-resurrection/
 ---
 
 ### ⚔️ Erika's House
-![house ](![Uploading Screenshot 2025-03-24 201739.png…]()
-)
+![Screenshot 2025-03-24 201739](https://github.com/user-attachments/assets/c51d41d3-3e17-495c-9b50-30274ac4d15b)
 
 ### 🌲 Forest Exploration
-![Forest](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-03-22 200021.png)
-![Forest](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-03-24 203118.png)
+![Screenshot 2025-03-22 200021](https://github.com/user-attachments/assets/5a96492e-e3f7-4702-bf3d-91b0e691359d)
+
+![Screenshot 2025-03-24 203118](https://github.com/user-attachments/assets/cd6af704-bb43-4e2f-adb7-b5cdf64fa4db)
 
 ### ⚔️ Erika vs Chupacabra  
-![Chupacabra Fight](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-03-22 202235.png)
+![Screenshot 2025-03-22 202235](https://github.com/user-attachments/assets/6b27a1e4-655c-45c4-b204-dc3e7d0c2558)
 
 ### ⚔️ Erika vs Cerberus 
-![Cerberus  Fight](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-06-22 125411.png)
+![Screenshot 2025-06-22 125411](https://github.com/user-attachments/assets/c405eefe-0192-4b65-b9ca-36bca8278f68)
 
 ### ⚔️ Boss Fight: Wendigo
-![Wendigo Fight](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-06-22 125502.png)
+![Screenshot 2025-06-22 125502](https://github.com/user-attachments/assets/9e506b35-545a-4347-b658-1181b0a1c7dd)
 
 ### 💬 Erika Meets the Demon Tree
-![Dialogue](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-06-22 125235.png)
+![Screenshot 2025-06-22 125235](https://github.com/user-attachments/assets/cf3c1422-1ec3-4f66-90c5-d2f070f21801)
 
 ### 💬 Erika Meets the Death God
-![Dialogue](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-06-22 125730.png)
+![Screenshot 2025-06-22 125730](https://github.com/user-attachments/assets/d1b8ce7b-aeea-4662-8918-f798da7f7411)
 
 ### 🖼 Deathgod's Temple
-![temple ](c:\Users\LOKESH\OneDrive\Pictures\Screenshots\Screenshot 2025-03-22 200933.png)
-
+![Screenshot 2025-03-22 200933](https://github.com/user-attachments/assets/77676774-5454-484a-ac1c-0e82b617c8cc)
 
 ---
 
