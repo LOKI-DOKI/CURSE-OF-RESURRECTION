@@ -1,4 +1,4 @@
-![Screenshot 2025-03-24 201739](https://github.com/user-attachments/assets/5ada8167-4235-4388-a66c-222d6ccad207)# 🏹 Curse of Resurrection — A 3D Open-World RPG in Unity
+# 🏹 Curse of Resurrection — A 3D Open-World RPG in Unity
 
 > A third-person, open-world RPG where archery, narrative, and atmospheric storytelling converge. Built in Unity, this game centers around **Erika**, a former assassin turned grief-stricken archer, on a perilous quest to bring back her beloved.
 
